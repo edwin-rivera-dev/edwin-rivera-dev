@@ -46,7 +46,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bran-chembah-tech&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=bran-chembah-tech&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats"/> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bran-chembah-tech&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
