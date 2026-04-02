@@ -17,8 +17,8 @@
 - 🔭 I’m currently working on **FullStack + AI + Cloud DevOps projects**  
 - 🌱 Learning **AI infrastructure, scalable systems & cloud optimization**  
 - 👯 Open to collaborate on **Open-Source & AI tools**  
-- 💬 Ask me about **React, Node.js, AWS, Docker, GCP, Python**  
-- 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/edwin-r-rivera-86b6683a6/) | [Email](edwinrivera19955@gmail.com)
+- 💬 Ask me about **React, Angular, Vue.js, Node.js, AWS, Docker, GCP, Python, Java, C#, .NET, Go, Rust, Ruby on Rails**  
+- 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/edwin-r-rivera-86b6683a6/) | [Email](edwin.rivera@solvinhub.com)
 
 ---
 
@@ -39,6 +39,15 @@
 <a href="https://cloud.google.com/" target="_blank"><img src="https://img.shields.io/badge/-GCP-FBE121?style=for-the-badge&logo=google-cloud&logoColor=4285F4" alt="GCP"/></a>
 <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
 <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/></a>
+<a href="https://www.java.com/" target="_blank"><img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/></a>
+<a href="https://spring.io/" target="_blank"><img src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://img.shields.io/badge/-C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/></a>
+<a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/></a>
+<a href="https://vuejs.org/" target="_blank"><img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js"/></a>
+<a href="https://angular.io/" target="_blank"><img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/></a>
+<a href="https://www.rust-lang.org/" target="_blank"><img src="https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/></a>
+<a href="https://go.dev/" target="_blank"><img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/></a>
+<a href="https://rubyonrails.org/" target="_blank"><img src="https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white" alt="Ruby on Rails"/></a>
 </p>
 
 ---
